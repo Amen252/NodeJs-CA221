@@ -15,6 +15,19 @@ This repository contains **all the example projects and exercises** from our Nod
 ---
 
 ## ⚡ How to Use
+## 🚀 API Endpoints
+
+The following endpoints are available in the Express API examples:
+
+| Method | Endpoint           | Description               |
+|--------|------------------|---------------------------|
+| GET    | /api/users        | Get all users             |
+| GET    | /api/users/:id    | Get a single user by ID   |
+| POST   | /api/users        | Create a new user         |
+| PUT    | /api/users/:id    | Update an existing user   |
+| DELETE | /api/users/:id    | Delete a user by ID       |
+
+> You can send data in **JSON** or **x-www-form-urlencoded** format when creating or updating a user.
 
 1. **Clone the repository**
 
