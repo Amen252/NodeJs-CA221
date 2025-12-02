@@ -19,5 +19,5 @@ This repository contains **all the example projects and exercises** from our Nod
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+[git clone https://github.com/your-username/your-repo.git
+cd your-repo](https://github.com/Amen252/NodeJs-CA221.git)
